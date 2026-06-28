@@ -11,14 +11,14 @@ A collection of lessons, sermons, and teachings discerned from God the Spirit.
 
 ### **Old Testament**
 *Zechariah*
-- [A Man Called Branch](lessons/adults-with-families/a-man-called-branch.pptx)
+- [A Man Called Branch](lessons/a-man-called-branch.pptx)
 
 ### **New Testament**
 *Matthew*
-- [The One Who Succeeded](lessons/adults-with-families/the-one-who-succeeded.pptx)
+- [The One Who Succeeded](lessons/the-one-who-succeeded.pptx)
 
 *Mark*
-- [Three Cries One Christ](lessons/adults-with-families/three-cries-one-christ.pptx)
+- [Three Cries One Christ](lessons/three-cries-one-christ.pptx)
 
 *John*
-- [His Glory Revealed](lessons/adults-with-families/his-glory-revealed.pptx)
+- [His Glory Revealed](lessons/his-glory-revealed.pptx)
