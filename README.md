@@ -1,4 +1,4 @@
-# from-the-spirit
+# From The Spirit
 A collection of lessons, sermons, and teachings discerned from God the Spirit.
 
 ## Sermons
