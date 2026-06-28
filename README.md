@@ -4,7 +4,7 @@ A collection of lessons, sermons, and teachings discerned from God the Spirit.
 ## Sermons
 
 ### **Sermon Series**
-- *The Book of John (work in progress)*
+- *The Book of John 'Work in Progress'*
   - [In the beginning](sermons/series/the-book-of-john/john-1-1.docx)
 
 ## Lessons
