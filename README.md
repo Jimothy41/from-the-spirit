@@ -16,6 +16,7 @@ A collection of lessons, sermons, and teachings discerned from God the Spirit.
 ### **New Testament**
 *Mark*
 - [Three Cries One Christ](lessons/adults-with-families/three-cries-one-christ.pptx)
+
 *John*
 - [His Glory Revealed](lessons/adults-with-families/his-glory-revealed.pptx)
 - [The One Who Succeeded](lessons/adults-with-families/the-one-who-succeeded.pptx)
