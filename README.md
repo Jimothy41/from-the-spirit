@@ -7,6 +7,9 @@ A collection of lessons, sermons, and teachings discerned from God the Spirit.
 - *The Book of John 'Work in Progress'*
   - [In the beginning](sermons/series/the-book-of-john/john-1-1.docx)
 
+### **Standalone**
+- [The Quality of Our Faith](sermons/standalone/the-quality-of-our-faith.docx)
+
 ## Lessons
 
 ### **Old Testament**
