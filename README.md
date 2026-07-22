@@ -23,5 +23,7 @@ A collection of lessons, sermons, and teachings discerned from God the Spirit.
 *Mark*
 - [Three Cries One Christ](lessons/three-cries-one-christ.pptx)
 
+*Luke*
+
 *John*
 - [His Glory Revealed](lessons/his-glory-revealed.pptx)
