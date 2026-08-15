@@ -27,3 +27,6 @@ A collection of lessons, sermons, and teachings discerned from God the Spirit.
 
 *John*
 - [His Glory Revealed](lessons/his-glory-revealed.pptx)
+
+*Titus*
+- [Gospel Alignment](lessons/gospel-alignment.pptx)
