@@ -6,6 +6,7 @@ A collection of lessons, sermons, and teachings discerned from God the Spirit.
 ### **Sermon Series**
 - *The Book of John 'Work in Progress'*
   - [In the beginning](sermons/series/the-book-of-john/john-1-1.docx)
+  - [Continuing the Work of the Cross](sermons/series/the-book-of-john/continuing-the-work-of-the-cross.docx)
 
 ### **Standalone**
 - [The Quality of Our Faith](sermons/standalone/the-quality-of-our-faith.docx)
