@@ -10,6 +10,7 @@ A collection of lessons, sermons, and teachings discerned from God the Spirit.
 
 ### **Standalone**
 - [The Quality of Our Faith](sermons/standalone/the-quality-of-our-faith.docx)
+- [In A Storm](sermons/standalone/in-a-storm.docx)
 
 ## Lessons
 
