@@ -24,6 +24,7 @@ A collection of lessons, sermons, and teachings discerned from God the Spirit.
 
 *Mark*
 - [Three Cries One Christ](lessons/three-cries-one-christ.pptx)
+- [When Life Gets a Rain Delay](lessons/when-life-gets-a-rain-delay.pptx)
 
 *Luke*
 
