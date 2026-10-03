@@ -7,7 +7,8 @@ A collection of lessons, sermons, and teachings discerned from God the Spirit.
 - *The Book of John 'Work in Progress'*
   - [In the beginning](sermons/series/the-book-of-john/john-1-1.docx)
   - [Continuing the Work of the Cross](sermons/series/the-book-of-john/continuing-the-work-of-the-cross.docx)
-
+- "Known and Kept"
+  - [The Father Knows](sermons/series/known-and-kept/the-father-knows.docx)
 ### **Standalone**
 - [The Quality of Our Faith](sermons/standalone/the-quality-of-our-faith.docx)
 - [In A Storm](sermons/standalone/in-a-storm.docx)
