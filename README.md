@@ -9,6 +9,7 @@ A collection of lessons, sermons, and teachings discerned from God the Spirit.
   - [Continuing the Work of the Cross](sermons/series/the-book-of-john/continuing-the-work-of-the-cross.docx)
 - "Known and Kept"
   - [The Father Knows](sermons/series/known-and-kept/the-father-knows.docx)
+  - [Keep On Praying](sermons/series/known-and-kept/keep-on-praying.docx)
 
 ### **Standalone**
 - [The Quality of Our Faith](sermons/standalone/the-quality-of-our-faith.docx)
